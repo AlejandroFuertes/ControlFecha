@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584523973 source:c:\users\fuertes alejandro\documents\codeblocks projects\unidad 1\controlfecha\main.c
+	<math.h>
+	<string.h>
+	"validarFecha.h"
+
+1584521954 c:\users\fuertes alejandro\documents\codeblocks projects\unidad 1\controlfecha\validarfecha.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
